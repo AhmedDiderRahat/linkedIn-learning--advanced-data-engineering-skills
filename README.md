@@ -10,7 +10,10 @@ output:
 
 # Introduction
 
-These are my notes from the Google Data Analytics Professional Certificate. This certificate consists of 8 different courses, and I've summarized key concepts and takeaways from each course below.
+Welcome to the repository for my advanced data engineering courses! This collection of courses has provided me with valuable skills and knowledge in the field of data engineering, covering a wide range of topics including data warehousing, data processing with PySpark, and workflow automation with Apache Airflow.
+
+In this repository, you will find summaries and key takeaways from each of the courses, along with any additional resources or code examples that I have found helpful during my learning journey. Whether you're just starting to explore the world of data engineering or looking to expand your existing skills, I hope you find these course summaries and insights valuable.
+
 
 
 ## Course 1: Data Science on Google Cloud Platform: Designing Data Warehouses
@@ -50,30 +53,6 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 ## Course 3: Learning Apache Airflow
 
 - Skills Gains: 
-	1. Data Prepardsetion.
-	2. How data is generated.
-	3. Data collection considerations.
-	4. Data sources.
-	5. Data formating.
-	6. Data elements.
-	7. Data model.
-	8. Data Bias.
-	9. Indetify good data.
-	10. Data Ethics.
-	11. Data Anonymization.
-	12. Database.
-	13. Normalization.
-	14. Metadata.
-	15. Data Governance.
-	16. Data Security.
-	
-- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9403.pdf)
-
-
-
-## Course 4: Process Data from Dirty to Clean
-
-- Skills Gains: 
 	1. Data Engineering workflow
 	2. Airflow fundamentals
 	3. Airflow architecture
@@ -90,13 +69,18 @@ These are my notes from the Google Data Analytics Professional Certificate. This
 	14. Cross-task communication 
 	15. Task Scheduling 
 	16. Cron catchup
+	
+- [Note Link](https://github.com/AhmedDiderRahat/linkedIn-learning--advanced-data-engineering-skills/blob/main/Course-3-Learning%20Apache%20Airflow/Note/Course%E2%80%942-Handnote.pdf)
+- [Code Link](https://github.com/AhmedDiderRahat/linkedIn-learning--advanced-data-engineering-skills/tree/main/Course-3-Learning%20Apache%20Airflow/Code/airflow)
 
-- [Note Link](https://github.com/AhmedDiderRahat/Google-Data-Analytics-Specialization/blob/main/Course%20Note/Course%E2%80%9404.pdf)
-- [Code Link]()
+
 
 # Conclusion
 
-These notes represent my key takeaways from the Google Data Analytics Professional Certificate. Feel free to explore the notes for each course to learn more about the concepts covered.
+Completing these advanced data engineering courses has been an enriching experience, equipping me with essential skills and knowledge in various aspects of data engineering. From designing data warehouses on Google Cloud Platform to harnessing the power of Apache PySpark for data processing and orchestrating complex workflows with Apache Airflow, these courses have expanded my horizons and enabled me to tackle real-world data engineering challenges.
 
-If you have any questions or would like to discuss any specific topics, please don't hesitate to reach out to me.
+As I continue to explore and apply these skills in practical scenarios, I am excited about the opportunities that lie ahead in the ever-evolving field of data engineering. I hope that the course summaries and insights shared in this repository prove to be valuable to others on their learning journeys.
 
+Thank you for joining me in this exploration of advanced data engineering concepts, and I look forward to continued growth and collaboration in the data engineering community.
+
+Feel free to connect with me on LinkedIn or GitHub if you have any questions or would like to discuss data engineering topics further. Happy learning!
