@@ -1,0 +1,11 @@
+Linux Commands:
+
+Open new folder: mkdir new_folder
+Opem a new file: nano my_script.py
+
+Delete a folder: rm -r my_folder
+
+Delete a folder without confirmation: rm -rf my_folder
+
+Rename a folder: mv old_foldername new_foldername
+
