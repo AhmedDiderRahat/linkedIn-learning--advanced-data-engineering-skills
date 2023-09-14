@@ -57,18 +57,19 @@ In this repository, you will find summaries and key takeaways from each of the c
 	2. Airflow fundamentals
 	3. Airflow architecture
 	4. Airflow use-case
-	5. Opeartors: Bash, Python, SQLite
-	6. Xcoms
-	7. Airflow user creatiopn and role distribution
-	8. Setup airflow on windox using wsl
-	9. Execute branching
-	10. Bash scriping
-	11. Execute Python-pipeline
-	12. Execute SQL-pipeline
-	13. Execute multiple tasks
-	14. Cross-task communication 
-	15. Task Scheduling 
-	16. Cron catchup
+	5. DAGs.
+	6. Opeartors: Bash, Python, SQLite
+	7. Xcoms
+	8. Airflow user creatiopn and role distribution
+	9. Setup airflow on windox using wsl
+	10. Execute branching
+	11. Bash scriping
+	12. Execute Python-pipeline
+	13. Execute SQL-pipeline
+	14. Execute multiple tasks
+	15. Cross-task communication 
+	16. Task Scheduling 
+	17. Cron catchup
 	
 - [Note Link](https://github.com/AhmedDiderRahat/linkedIn-learning--advanced-data-engineering-skills/blob/main/Course-3-Learning%20Apache%20Airflow/Note/Course%E2%80%942-Handnote.pdf)
 - [Code Link](https://github.com/AhmedDiderRahat/linkedIn-learning--advanced-data-engineering-skills/tree/main/Course-3-Learning%20Apache%20Airflow/Code/airflow)
